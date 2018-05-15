@@ -5,6 +5,7 @@ body {
 	position: relative;
 	width: auto;
 }
+
 body #page {
 	background: url("../images/bg-home.jpg") no-repeat scroll center top #000000;
 	margin: 0;
