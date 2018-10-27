@@ -1,4 +1,4 @@
 # transportmuseum
-technology museum website
+Technology Museum Website for course GE102
 
-hosted by yogesh and soumil 
+Hosted by Yogesh and Soumil 
